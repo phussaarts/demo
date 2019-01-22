@@ -1,3 +1,3 @@
-# This is another file
+# This is another FILE
 
 ## It's not as cool as the readme
